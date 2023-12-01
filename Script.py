@@ -100,7 +100,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
 
-★ Mᴀɪɴᴛᴀɪɴᴇʀ: <a href=https://t.me/Dengerous53><b>𝗦𝗬𝗢𝗞𝗢</b></a>"""
+★ Mᴀɪɴᴛᴀɪɴᴇʀ: <a href=https://t.me/ModAppsforyou1><b>SHINCHAN</b></a>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
