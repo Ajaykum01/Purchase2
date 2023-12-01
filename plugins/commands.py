@@ -279,8 +279,8 @@ async def start(client, message):
         )
     )
     
-    dream = await message.reply_text("<b>Due To Copyright This file will deleted after 20 Minutes, Forword somewhere before download</b>")
-    await asyncio.sleep(1200)
+    dream = await message.reply_text("<b>Due To Copyright This file will deleted after 10 Minutes, Forword somewhere before download</b>")
+    await asyncio.sleep(600)
     await shub.delete()
     
     await asyncio.sleep(2)
