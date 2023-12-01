@@ -92,7 +92,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('Channel 👀', url='https://t.me/moviesss4ers'),
+                    InlineKeyboardButton('Channel 👀', url='https://t.me/+jARGKkERm1RlNDU1'),
                     InlineKeyboardButton('Group 👀', url='https://t.me/tamilmovierequestda')
                 ],[
                     InlineKeyboardButton('Help ⚡', callback_data='help'),
@@ -149,7 +149,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('𝐉𝐨𝐢𝐧 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 🎬', url='https://t.me/moviesss4ers')
+                          InlineKeyboardButton('𝐉𝐨𝐢𝐧 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 🎬', url='https://t.me/+jARGKkERm1RlNDU1')
                          ]
                         ]
                     )
@@ -165,7 +165,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('𝐉𝐨𝐢𝐧 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 🎬', url='https://t.me/moviesss4ers')
+                          InlineKeyboardButton('𝐉𝐨𝐢𝐧 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 🎬', url='https://t.me/+jARGKkERm1RlNDU1')
                          ]
                         ]
                     )
@@ -233,7 +233,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('𝐉𝐨𝐢𝐧 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 🎬', url='https://t.me/moviesss4ers')
+                      InlineKeyboardButton('𝐉𝐨𝐢𝐧 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 🎬', url='https://t.me/+jARGKkERm1RlNDU1')
                      ]
                     ]
                 )
@@ -273,7 +273,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('𝐉𝐨𝐢𝐧 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 🎬', url='https://t.me/moviesss4ers')
+              InlineKeyboardButton('𝐉𝐨𝐢𝐧 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 🎬', url='https://t.me/+jARGKkERm1RlNDU1')
              ]
             ]
         )
