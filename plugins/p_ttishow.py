@@ -41,7 +41,7 @@ async def save_group(bot, message):
                     InlineKeyboardButton('Help ⚡', url=f"https://t.me/{temp.U_NAME}?start=help"),
                     InlineKeyboardButton('My Channel 👀', url='https://t.me/+jARGKkERm1RlNDU1')
                  ],[
-                    InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Nexus_Shubhu")
+                    InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/ModAppsforyou1")
                   ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -64,7 +64,7 @@ async def save_group(bot, message):
                                                                            InlineKeyboardButton('Help ⚡', url=f"https://t.me/{temp.U_NAME}?start=help"),
                                                                            InlineKeyboardButton('My Channel 👀', url='https://t.me/+jARGKkERm1RlNDU1')
                                                                         ],[
-                                                                           InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Nexus_Shubhu")
+                                                                           InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/ModAppsforyou1")
                                                                          ]]
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
