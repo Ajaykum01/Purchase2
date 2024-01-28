@@ -4,11 +4,11 @@ class script(object):
 ɪ ᴀᴍ ᴅʀᴇᴀᴍ, ɴᴏᴛ ᴛʜᴀᴛ ʏᴏᴜᴛᴜʙᴇʀ\n\n ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs - ꜱᴇʀɪᴇꜱ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ᴠɪᴀ ɪɴʟɪɴᴇ. ɪ ᴄᴀɴ ᴀʟsᴏ ᴀᴅᴅ ꜰɪʟᴛᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ😌\n\n 👇 ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴀʙᴏᴠᴇ ʟɪɴᴋ 👇"""
 
     HELP_TXT = """<b>Tᴏ Sᴇᴛ Cᴜsᴛᴏᴍ Sʜᴏʀᴛᴇɴᴇʀ
-Cᴏɴᴛᴀᴄᴛ- @ModAppsforyou1
+Cᴏɴᴛᴀᴄᴛ- @Shinchan_2807
 
 Cʜᴇᴄᴋ Tʜᴇꜱᴇ Hᴇʟᴘ Cᴏᴍᴍᴀɴᴅs 👇.</b>"""
 
-    ABOUT_TXT = """<b><i>👨‍💻 ᴏᴡɴᴇʀ : <a href=https://t.me/ModAppsforyou1><b>Shinchan</b></a>\n
+    ABOUT_TXT = """<b><i>👨‍💻 ᴏᴡɴᴇʀ : <a href=https://t.me/Shinchan_2807><b>Shinchan</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org><b>ᴘʏᴛʜᴏɴ</b></a>\n
 📚 ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram/pyrogram><b>ᴘʏʀᴏɢʀᴀᴍ</b></a>\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=vultr.com><b>ᴠᴘꜱ</b></a>\n
