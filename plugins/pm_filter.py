@@ -920,7 +920,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('Help ⚡', callback_data='help'),
                     InlineKeyboardButton('About Me 🙈', callback_data='about')
                 ],[
-                    InlineKeyboardButton('Any Queries DM Here ✅',url='https://t.me/ModAppsforyou1')
+                    InlineKeyboardButton('Any Queries DM Here ✅',url='https://t.me/Shinchan_2807')
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -998,7 +998,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('Developer 😎', url='https://t.me/ModAppsforyou1'),
+            InlineKeyboardButton('Developer 😎', url='https://t.me/Shinchan_2807'),
             InlineKeyboardButton('Source Code', callback_data='source')
         ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
